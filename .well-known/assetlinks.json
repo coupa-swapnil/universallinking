@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.coupa.android.coupamobile",
+      "sha256_cert_fingerprints": [
+        "CB:83:F5:69:57:03:77:1A:C1:EC:B9:CF:4E:41:4E:CD:A9:36:A8:C9:65:9E:84:0F:84:71:96:CA:71:AE:DC:E9"
+      ]
+    }
+  }
+]
