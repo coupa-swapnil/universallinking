@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "5V3R72597N.com.coupa.push",
+        "appID": "com.coupa.push",
         "paths": [
           "*"
         ]
